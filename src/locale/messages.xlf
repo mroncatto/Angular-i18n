@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="menu-about" datatype="html">
+        <source>About</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description"> Título del menu</note>
+        <note priority="1" from="meaning">About </note>
+      </trans-unit>
+      <trans-unit id="menu-services" datatype="html">
+        <source>Services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description"> Título del menu</note>
+        <note priority="1" from="meaning">Services </note>
+      </trans-unit>
+      <trans-unit id="menu-contact" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description"> Título del menu</note>
+        <note priority="1" from="meaning">Contact </note>
+      </trans-unit>
+      <trans-unit id="welcome" datatype="html">
+        <source>Welcome to Angular i18n</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <note priority="1" from="description"> Bienvenida de inicio </note>
+        <note priority="1" from="meaning">Welcome </note>
+      </trans-unit>
+      <trans-unit id="welcome-resum" datatype="html">
+        <source>A landing page template freshly redesigned for Bootstrap 4</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <note priority="1" from="description"> Comentario de bienvenida</note>
+        <note priority="1" from="meaning">WelcomeResum </note>
+      </trans-unit>
+      <trans-unit id="page-about-title" datatype="html">
+        <source>About this page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <note priority="1" from="description"> Título pagina sobre</note>
+        <note priority="1" from="meaning">AboutPage </note>
+      </trans-unit>
+      <trans-unit id="page-services-title" datatype="html">
+        <source>Services we offer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <note priority="1" from="description"> Título pagina servicios</note>
+        <note priority="1" from="meaning">ServicesPage </note>
+      </trans-unit>
+      <trans-unit id="page-contact-title" datatype="html">
+        <source>Contact us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description"> Título pagina contact</note>
+        <note priority="1" from="meaning">ContactPage </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
